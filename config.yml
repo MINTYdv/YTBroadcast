@@ -1,0 +1,19 @@
+# Configuration du plugin de broadcast
+# Besoin d'aide ? » MINTY#8171
+
+# ! Nom du grade requis pour afficher le message aux joueurs
+rank-name: Youtuber
+
+# ! Message à afficher aux joueurs lorsqu'un youtubeur se connecte
+broadcast-message: "&r<rank> <player> &ea rejoint la partie ! Accueillez le comme il se doit !"
+
+# ! Est-ce que le plugin doit annuler le message de connexion par défaut
+#   envoyé par Minecraft !
+remove-basic-message: true
+
+# ? Utiliser les placeholers :
+#   » <player> : Représente le nom du joueur
+#   » <prefix> : Représente le préfixe du grade
+
+# ? Utiliser les codes couleurs :
+#   » Les codes couleurs doivent être formatés en commencant avec un "&"
